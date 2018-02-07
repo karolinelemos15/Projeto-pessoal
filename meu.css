@@ -1,0 +1,124 @@
+nav{
+  background-color: #077aa6;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+
+header{
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+header h1{
+  color:#ffffff;
+  text-align: center;
+  margin-left: 25%;
+  margin-top: 50% !important;
+  margin: 0px auto !important;
+}
+.arrumar{
+  padding-top: 13%;
+  margin: 0px auto !important;
+}
+.Sobre_mim{
+    height: auto;
+    min-height: 100vh;
+    padding: 3%;
+   
+    margin:0px;
+}
+footer{
+  height: auto;
+  min-height: 400px;
+  background-color: white;
+  margin:0px;
+  text-align: center;
+}
+#footer01{
+  height: auto;
+  min-height: 370px;
+  padding: 3%;
+}
+
+.Habilidades{
+  height: auto;
+  min-height: 100vh;
+  padding: 3%;
+ 
+
+}
+.Sobre_mim div{
+  overflow: hidden;
+  text-align: center !important;
+
+}
+.Sobre_mim img{
+  margin: 0px auto;
+  margin-top: 25%;
+  width: 55%;
+  border-radius: 200px;
+  -o-border-radius: 200px;
+  -ms-border-radius: 200px;
+  -moz-border-radius: 200px;
+  -webkit-border-radius: 200px;
+}
+.Sobre_mim .sobre{
+  text-align: left;
+  margin-top: 25%;
+  color: white;
+}
+.Sobre_mim .obj{
+  text-align: left;
+  margin-top: 3%;
+  color: white;
+}
+.Sobre_mim p{
+  font-size: 18px;
+  margin: 0px;
+  text-align: left;
+  color: white;
+  font-weight: 300;
+}
+.Sobre_mim p::first-letter{
+  margin-left: 7%;
+  text-transform: uppercase;
+}
+.hab p{
+  margin-top: 5%;
+}
+.collapsible-header{
+  background-color: white;
+}
+.collapsible-body{
+  background-color: white;
+}
+.form{
+  text-align: center;
+}
+.rede_social{
+  width: 14%;
+}
+#footer01 ul li{
+  display: inline;
+}
+#home{
+  background: url("fundo1.png");
+  background-size: 100%;
+}
+.seta{
+  margin-top: 17%;
+  color: white;
+
+}
+.card{
+  margin-top: 10%;
+}
+.fundo{
+  background: linear-gradient(#077aa6, white);
+}
+.card{
+  background: transparent;
+}
